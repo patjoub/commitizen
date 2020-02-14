@@ -5,7 +5,7 @@ return [
         'lengthMin'   => 1,
         'lengthMax'   => 5,
         'acceptExtra' => false,
-        'values'      => ['feat', 'fix', 'doc', 'refactor', 'perf', 'test'],
+        'values'      => ['feat', 'fix', 'doc', 'refac', 'perf', 'test'],
     ],
     'scope'       => [
         'lengthMin'   => 0,
