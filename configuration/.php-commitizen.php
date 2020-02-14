@@ -10,8 +10,8 @@ return [
     'scope'       => [
         'lengthMin'   => 0,
         'lengthMax'   => 10,
-        'acceptExtra' => true,
-        'values'      => [],
+        'acceptExtra' => false,
+        'values'      => ['commande','article','truc'],
     ],
     'description' => [
         'lengthMin' => 1,
